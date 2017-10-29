@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: boot-mongo-docker
+  data:
+    mongodb:
+      database: User
+      host: mongo
+      port: 27017
+server:
+  port: 8086

@@ -1,0 +1,15 @@
+version: "2"
+
+services:
+  boot-app:
+    image: "boot-mongo-docker"
+    ports:
+      - "8086:8086"
+      - "5551:5551"
+  mongo:
+    image: "mongo"
+    ports:
+      - "27017:27019"
+    volumes:
+    - './data:/data/db'
+

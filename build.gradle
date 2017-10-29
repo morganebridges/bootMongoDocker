@@ -1,0 +1,56 @@
+group 'boot-mongo-docker'
+version '1.0-SNAPSHOT'
+
+apply plugin: 'java'
+apply plugin: 'docker'
+
+sourceCompatibility = 1.8
+
+buildscript {
+    ext {
+        springBootVersion     = "1.5.2.RELEASE"
+        gradleDockerVersion   = "1.2"
+    }
+    repositories {
+        mavenCentral()
+    }
+    dependencies {
+
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
+        classpath("se.transmode.gradle:gradle-docker:${gradleDockerVersion}")
+    }
+}
+
+apply plugin: "java"
+apply plugin: "application"
+apply plugin: "eclipse"
+apply plugin: "org.springframework.boot"
+
+compileJava {
+    sourceCompatibility = 1.8
+    targetCompatibility = 1.8
+    mainClassName       = "com.bridges.Application"
+}
+
+jar {
+    baseName = "boot-mongo-docker"
+    group    = "com.bridges"
+    version  = "0.0.1-SNAPSHOT"
+    manifest { attributes "Main-Class": "com.bridges.Application" }
+}
+docker {
+    baseImage "frolvlad/alpine-oraclejdk8:slim"
+    maintainer 'Hudson Mendes "hudsonmendes@gmail.com"'
+}
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    compile("org.springframework.boot:spring-boot-starter-web")
+    compile("org.springframework.data:spring-data-mongodb")
+    compile("org.springframework.boot:spring-boot-starter-batch")
+    compile("org.hsqldb:hsqldb")
+    testCompile("org.springframework.boot:spring-boot-starter-test")
+}

@@ -1,0 +1,510 @@
+Starting Build
+Settings evaluated using settings file '/home/morgan/pocs/bootMongoDocker/settings.gradle'.
+Projects loaded. Root project using build file '/home/morgan/pocs/bootMongoDocker/build.gradle'.
+Included projects: [root project 'bootMongoDocker']
+Evaluating root project 'bootMongoDocker' using build file '/home/morgan/pocs/bootMongoDocker/build.gradle'.
+Cached resource Fri Mar 03 10:44:47 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-gradle-plugin/1.5.2.RELEASE/spring-boot-gradle-plugin-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:45:07 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-tools/1.5.2.RELEASE/spring-boot-tools-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:52:18 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-parent/1.5.2.RELEASE/spring-boot-parent-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:43:59 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.2.RELEASE/spring-boot-dependencies-1.5.2.RELEASE.pom).
+Cached resource Mon Feb 20 18:56:05 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.8.7/jackson-bom-2.8.7.pom).
+Cached resource Mon Jul 04 00:08:51 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom).
+Cached resource Fri Apr 29 20:38:33 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/oss-parent/27/oss-parent-27.pom).
+Cached resource Fri Apr 29 20:38:33 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/oss-parent/27/oss-parent-27.pom).
+Cached resource Mon Jul 04 00:08:51 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-parent/2.8/jackson-parent-2.8.pom).
+Cached resource Mon Feb 20 18:56:05 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/jackson-bom/2.8.7/jackson-bom-2.8.7.pom).
+Cached resource Sun Oct 02 13:33:36 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-bom/2.7/log4j-bom-2.7.pom).
+Cached resource Thu Feb 10 17:56:43 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/apache/9/apache-9.pom).
+Cached resource Thu Feb 10 17:56:43 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/apache/9/apache-9.pom).
+Cached resource Sun Oct 02 13:33:36 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/logging/log4j/log4j-bom/2.7/log4j-bom-2.7.pom).
+Cached resource Wed Mar 01 04:05:22 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-framework-bom/4.3.7.RELEASE/spring-framework-bom-4.3.7.RELEASE.pom).
+Cached resource Wed Mar 01 04:05:22 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-framework-bom/4.3.7.RELEASE/spring-framework-bom-4.3.7.RELEASE.pom).
+Cached resource Thu Mar 02 02:46:20 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/data/spring-data-releasetrain/Ingalls-SR1/spring-data-releasetrain-Ingalls-SR1.pom).
+Cached resource Thu Mar 02 02:46:17 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/data/build/spring-data-build/1.9.1.RELEASE/spring-data-build-1.9.1.RELEASE.pom).
+Cached resource Thu Mar 02 02:46:17 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/data/build/spring-data-build/1.9.1.RELEASE/spring-data-build-1.9.1.RELEASE.pom).
+Cached resource Thu Mar 02 02:46:20 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/data/spring-data-releasetrain/Ingalls-SR1/spring-data-releasetrain-Ingalls-SR1.pom).
+Cached resource Wed Mar 01 14:40:00 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/integration/spring-integration-bom/4.3.8.RELEASE/spring-integration-bom-4.3.8.RELEASE.pom).
+Cached resource Wed Mar 01 14:40:00 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/integration/spring-integration-bom/4.3.8.RELEASE/spring-integration-bom-4.3.8.RELEASE.pom).
+Cached resource Thu Mar 02 01:37:23 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/security/spring-security-bom/4.2.2.RELEASE/spring-security-bom-4.2.2.RELEASE.pom).
+Cached resource Thu Mar 02 01:37:23 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/security/spring-security-bom/4.2.2.RELEASE/spring-security-bom-4.2.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:43:59 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-dependencies/1.5.2.RELEASE/spring-boot-dependencies-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:52:18 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-parent/1.5.2.RELEASE/spring-boot-parent-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:45:07 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-tools/1.5.2.RELEASE/spring-boot-tools-1.5.2.RELEASE.pom).
+Cached resource Sun Jul 27 19:21:32 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/se/transmode/gradle/gradle-docker/1.2/gradle-docker-1.2.pom).
+Cached resource Fri Mar 03 10:45:03 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-loader-tools/1.5.2.RELEASE/spring-boot-loader-tools-1.5.2.RELEASE.pom).
+Cached resource Tue Jan 24 06:10:21 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/io/spring/gradle/dependency-management-plugin/1.0.0.RELEASE/dependency-management-plugin-1.0.0.RELEASE.pom).
+Cached resource Tue Apr 22 15:47:46 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/guava/guava/17.0/guava-17.0.pom).
+Cached resource Tue Apr 22 15:47:19 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/guava/guava-parent/17.0/guava-parent-17.0.pom).
+Cached resource Mon Mar 07 06:42:48 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom).
+Cached resource Mon Mar 07 06:42:48 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/7/oss-parent-7.pom).
+Cached resource Tue Apr 22 15:47:19 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/guava/guava-parent/17.0/guava-parent-17.0.pom).
+Cached resource Thu Jul 03 14:16:39 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/docker-java/docker-java/0.9.0/docker-java-0.9.0.pom).
+Cached resource Mon Jan 27 13:15:21 CST 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom).
+Cached resource Mon Jan 27 13:15:21 CST 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/sonatype/oss/oss-parent/9/oss-parent-9.pom).
+Cached resource Wed Mar 01 04:05:18 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.pom).
+Cached resource Thu Apr 10 15:05:04 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.3/jackson-jaxrs-json-provider-2.3.3.pom).
+Cached resource Thu Apr 10 15:04:18 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.3.3/jackson-jaxrs-providers-2.3.3.pom).
+Cached resource Fri Dec 13 22:24:41 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/oss-parent/12/oss-parent-12.pom).
+Cached resource Fri Dec 13 22:24:41 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/oss-parent/12/oss-parent-12.pom).
+Cached resource Thu Apr 10 15:04:18 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-providers/2.3.3/jackson-jaxrs-providers-2.3.3.pom).
+Cached resource Fri Nov 22 03:20:29 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/jersey-core/1.18/jersey-core-1.18.pom).
+Cached resource Fri Nov 22 03:19:48 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/jersey-project/1.18/jersey-project-1.18.pom).
+Cached resource Mon Mar 18 10:29:54 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom).
+Cached resource Mon Mar 18 10:29:54 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jvnet-parent/4/jvnet-parent-4.pom).
+Cached resource Fri Nov 22 03:19:48 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/jersey-project/1.18/jersey-project-1.18.pom).
+Cached resource Fri Nov 22 03:26:42 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/jersey-client/1.18/jersey-client-1.18.pom).
+Cached resource Fri Nov 22 03:31:41 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/contribs/jersey-multipart/1.18/jersey-multipart-1.18.pom).
+Cached resource Fri Nov 22 03:22:32 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/contribs/jersey-contribs/1.18/jersey-contribs-1.18.pom).
+Cached resource Fri Nov 22 03:22:32 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/contribs/jersey-contribs/1.18/jersey-contribs-1.18.pom).
+Cached resource Fri Sep 02 06:20:15 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/contribs/jersey-apache-client4/1.9/jersey-apache-client4-1.9.pom).
+Cached resource Fri Sep 02 06:18:19 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/contribs/jersey-contribs/1.9/jersey-contribs-1.9.pom).
+Cached resource Fri Sep 02 06:16:27 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/jersey-project/1.9/jersey-project-1.9.pom).
+Cached resource Mon May 09 04:12:04 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom).
+Cached resource Mon May 09 04:12:04 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/net/java/jvnet-parent/1/jvnet-parent-1.pom).
+Cached resource Fri Sep 02 06:16:27 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/jersey-project/1.9/jersey-project-1.9.pom).
+Cached resource Fri Sep 02 06:18:19 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/contribs/jersey-contribs/1.9/jersey-contribs-1.9.pom).
+Cached resource Fri Apr 19 11:29:59 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.2.5/httpclient-4.2.5.pom).
+Cached resource Fri Apr 19 11:29:16 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.2.5/httpcomponents-client-4.2.5.pom).
+Cached resource Thu Apr 26 19:28:39 CDT 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/project/6/project-6.pom).
+Cached resource Thu Apr 26 19:28:39 CDT 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/project/6/project-6.pom).
+Cached resource Fri Apr 19 11:29:16 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-client/4.2.5/httpcomponents-client-4.2.5.pom).
+Cached resource Mon Mar 11 01:17:08 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.pom).
+Cached resource Tue Jan 22 11:25:57 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom).
+Cached resource Thu Jan 17 09:23:18 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom).
+Cached resource Thu Jan 17 09:23:18 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/apache/13/apache-13.pom).
+Cached resource Tue Jan 22 11:25:57 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/28/commons-parent-28.pom).
+Cached resource Sun Jan 16 16:21:47 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.pom).
+Cached resource Mon Jul 12 05:47:21 CDT 2010 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom).
+Cached resource Sat Dec 26 06:23:18 CST 2009 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/apache/7/apache-7.pom).
+Cached resource Sat Dec 26 06:23:18 CST 2009 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/apache/7/apache-7.pom).
+Cached resource Mon Jul 12 05:47:21 CDT 2010 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/17/commons-parent-17.pom).
+Cached resource Tue Apr 10 10:12:45 CDT 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-io/commons-io/2.3/commons-io-2.3.pom).
+Cached resource Fri Mar 09 18:57:42 CST 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/24/commons-parent-24.pom).
+Cached resource Fri Mar 09 18:57:42 CST 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/24/commons-parent-24.pom).
+Cached resource Tue Apr 02 19:50:15 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jnr-unixsocket/0.3/jnr-unixsocket-0.3.pom).
+Cached resource Mon Mar 25 15:52:15 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.pom).
+Cached resource Mon Mar 25 15:51:58 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.5/slf4j-parent-1.7.5.pom).
+Cached resource Mon Mar 25 15:51:58 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.5/slf4j-parent-1.7.5.pom).
+Cached resource Mon Mar 25 15:53:40 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.7.5/jul-to-slf4j-1.7.5.pom).
+Cached resource Sat Jul 05 13:12:28 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom).
+Cached resource Sun Apr 13 06:14:52 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom).
+Cached resource Sun Apr 13 06:14:52 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/34/commons-parent-34.pom).
+Cached resource Thu Apr 10 15:04:29 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.3/jackson-jaxrs-base-2.3.3.pom).
+Cached resource Thu Apr 10 11:47:08 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.pom).
+Cached resource Thu Apr 10 11:55:35 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.pom).
+Cached resource Thu Apr 10 12:04:07 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.3/jackson-module-jaxb-annotations-2.3.3.pom).
+Cached resource Fri Apr 19 04:44:23 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.3/mimepull-1.9.3.pom).
+Cached resource Tue Jan 29 08:27:00 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/tukaani/xz/1.2/xz-1.2.pom).
+Cached resource Sun Mar 31 05:10:10 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jnr-ffi/1.0.3/jnr-ffi-1.0.3.pom).
+Cached resource Sun Sep 23 02:47:32 CDT 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jnr-constants/0.8.4/jnr-constants-0.8.4.pom).
+Cached resource Tue Apr 02 19:35:28 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jnr-enxio/0.4/jnr-enxio-0.4.pom).
+Cached resource Wed Nov 13 22:56:45 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.pom).
+Cached resource Thu Jun 27 10:08:17 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/oss-parent/11/oss-parent-11.pom).
+Cached resource Thu Jun 27 10:08:17 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/oss-parent/11/oss-parent-11.pom).
+Cached resource Tue May 30 14:07:38 CDT 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jffi/1.2.16/jffi-1.2.16.pom).
+Cached resource Tue Dec 06 13:22:19 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm/4.0/asm-4.0.pom).
+Cached resource Tue Dec 06 13:22:04 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/4.0/asm-parent-4.0.pom).
+Cached resource Tue Apr 19 11:07:04 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom).
+Cached resource Tue Apr 19 11:07:04 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/ow2/1.3/ow2-1.3.pom).
+Cached resource Tue Dec 06 13:22:04 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-parent/4.0/asm-parent-4.0.pom).
+Cached resource Tue Dec 06 13:22:48 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/4.0/asm-commons-4.0.pom).
+Cached resource Tue Dec 06 13:22:34 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.0/asm-analysis-4.0.pom).
+Cached resource Tue Dec 06 13:23:01 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.0/asm-tree-4.0.pom).
+Cached resource Tue Dec 06 13:23:17 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.0/asm-util-4.0.pom).
+Cached resource Fri Apr 06 21:50:21 CDT 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jnr-x86asm/1.0.2/jnr-x86asm-1.0.2.pom).
+Cached resource Wed Mar 20 11:12:21 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.2.4/httpcore-4.2.4.pom).
+Cached resource Wed Mar 20 11:11:59 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.2.4/httpcomponents-core-4.2.4.pom).
+Cached resource Wed Mar 20 11:11:59 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcomponents-core/4.2.4/httpcomponents-core-4.2.4.pom).
+Cached resource Fri Dec 02 20:38:26 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.pom).
+Cached resource Fri Sep 16 10:56:20 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/22/commons-parent-22.pom).
+Cached resource Fri Sep 16 10:56:20 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-parent/22/commons-parent-22.pom).
+Cached resource Fri Mar 03 10:42:34 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-gradle-plugin/1.5.2.RELEASE/spring-boot-gradle-plugin-1.5.2.RELEASE.jar).
+Cached resource Sun Jul 27 19:21:32 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/se/transmode/gradle/gradle-docker/1.2/gradle-docker-1.2.jar).
+Cached resource Fri Mar 03 10:42:54 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-loader-tools/1.5.2.RELEASE/spring-boot-loader-tools-1.5.2.RELEASE.jar).
+Cached resource Tue Jan 24 06:10:22 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/io/spring/gradle/dependency-management-plugin/1.0.0.RELEASE/dependency-management-plugin-1.0.0.RELEASE.jar).
+Cached resource Tue Apr 22 15:47:46 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/google/guava/guava/17.0/guava-17.0.jar).
+Cached resource Thu Jul 03 14:16:37 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/docker-java/docker-java/0.9.0/docker-java-0.9.0.jar).
+Cached resource Wed Mar 01 04:04:08 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.jar).
+Cached resource Thu Apr 10 15:05:03 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-json-provider/2.3.3/jackson-jaxrs-json-provider-2.3.3.jar).
+Cached resource Fri Nov 22 03:20:23 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/jersey-core/1.18/jersey-core-1.18.jar).
+Cached resource Fri Nov 22 03:26:37 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/jersey-client/1.18/jersey-client-1.18.jar).
+Cached resource Fri Nov 22 03:31:33 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/contribs/jersey-multipart/1.18/jersey-multipart-1.18.jar).
+Cached resource Fri Sep 02 06:20:13 CDT 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/sun/jersey/contribs/jersey-apache-client4/1.9/jersey-apache-client4-1.9.jar).
+Cached resource Fri Apr 19 11:29:57 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpclient/4.2.5/httpclient-4.2.5.jar).
+Cached resource Mon Mar 11 01:17:01 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/commons/commons-compress/1.5/commons-compress-1.5.jar).
+Cached resource Sun Jan 16 16:21:47 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-lang/commons-lang/2.6/commons-lang-2.6.jar).
+Cached resource Tue Apr 10 10:12:42 CDT 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-io/commons-io/2.3/commons-io-2.3.jar).
+Cached resource Tue Apr 02 19:50:06 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jnr-unixsocket/0.3/jnr-unixsocket-0.3.jar).
+Cached resource Mon Mar 25 15:52:14 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.5/slf4j-api-1.7.5.jar).
+Cached resource Mon Mar 25 15:53:39 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.7.5/jul-to-slf4j-1.7.5.jar).
+Cached resource Sat Jul 05 13:12:25 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.jar).
+Cached resource Thu Apr 10 15:04:28 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/jaxrs/jackson-jaxrs-base/2.3.3/jackson-jaxrs-base-2.3.3.jar).
+Cached resource Thu Apr 10 11:47:06 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.3.3/jackson-core-2.3.3.jar).
+Cached resource Thu Apr 10 11:55:34 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.3.3/jackson-databind-2.3.3.jar).
+Cached resource Thu Apr 10 12:04:06 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/module/jackson-module-jaxb-annotations/2.3.3/jackson-module-jaxb-annotations-2.3.3.jar).
+Cached resource Fri Apr 19 04:44:19 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jvnet/mimepull/mimepull/1.9.3/mimepull-1.9.3.jar).
+Cached resource Tue Jan 29 08:27:00 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/tukaani/xz/1.2/xz-1.2.jar).
+Cached resource Sun Mar 31 05:10:03 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jnr-ffi/1.0.3/jnr-ffi-1.0.3.jar).
+Cached resource Sun Sep 23 02:47:25 CDT 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jnr-constants/0.8.4/jnr-constants-0.8.4.jar).
+Cached resource Tue Apr 02 19:35:18 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jnr-enxio/0.4/jnr-enxio-0.4.jar).
+Cached resource Wed Nov 13 22:56:42 CST 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.3.0/jackson-annotations-2.3.0.jar).
+Cached resource Tue May 30 14:07:30 CDT 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jffi/1.2.16/jffi-1.2.16.jar).
+Cached resource Tue May 30 14:07:48 CDT 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jffi/1.2.16/jffi-1.2.16-native.jar).
+Cached resource Tue Dec 06 13:22:18 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm/4.0/asm-4.0.jar).
+Cached resource Tue Dec 06 13:22:47 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-commons/4.0/asm-commons-4.0.jar).
+Cached resource Tue Dec 06 13:22:32 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-analysis/4.0/asm-analysis-4.0.jar).
+Cached resource Tue Dec 06 13:23:01 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-tree/4.0/asm-tree-4.0.jar).
+Cached resource Tue Dec 06 13:23:16 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/ow2/asm/asm-util/4.0/asm-util-4.0.jar).
+Cached resource Fri Apr 06 21:50:16 CDT 2012 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/github/jnr/jnr-x86asm/1.0.2/jnr-x86asm-1.0.2.jar).
+Cached resource Wed Mar 20 11:12:19 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/httpcomponents/httpcore/4.2.4/httpcore-4.2.4.jar).
+Cached resource Fri Dec 02 20:38:26 CST 2011 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-codec/commons-codec/1.6/commons-codec-1.6.jar).
+Adding docker extension
+Adding docker task type
+Applying docker defaults to tasks of type 'Docker'
+Adding docker task 'distDocker'
+Applying dependency management to configuration 'archives' in project 'bootMongoDocker'
+Applying dependency management to configuration 'compile' in project 'bootMongoDocker'
+Applying dependency management to configuration 'default' in project 'bootMongoDocker'
+Applying dependency management to configuration 'runtime' in project 'bootMongoDocker'
+Applying dependency management to configuration 'testCompile' in project 'bootMongoDocker'
+Applying dependency management to configuration 'testRuntime' in project 'bootMongoDocker'
+Configuring agent
+All projects evaluated.
+Selected primary task 'build' from project :
+Selected primary task 'distDocker' from project :
+Tasks to be executed: [task ':compileJava', task ':processResources', task ':classes', task ':jar', task ':findMainClass', task ':startScripts', task ':distTar', task ':distZip', task ':bootRepackage', task ':assemble', task ':compileTestJava', task ':processTestResources', task ':testClasses', task ':test', task ':check', task ':build', task ':distDocker']
+:compileJava (Thread[main,5,main]) started.
+:compileJava
+Resolving dependency management for configuration 'compile' of project 'bootMongoDocker'
+Resolving global dependency management for project 'bootMongoDocker'
+Cached resource Fri Mar 03 10:43:05 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.5.2.RELEASE/spring-boot-starter-parent-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:43:05 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-parent/1.5.2.RELEASE/spring-boot-starter-parent-1.5.2.RELEASE.pom).
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-web:'
+Cached resource Fri Mar 03 10:52:29 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-web/1.5.2.RELEASE/spring-boot-starter-web-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:52:42 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starters/1.5.2.RELEASE/spring-boot-starters-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:52:42 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starters/1.5.2.RELEASE/spring-boot-starters-1.5.2.RELEASE.pom).
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter:1.5.2.RELEASE'
+Cached resource Fri Mar 03 10:48:50 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter/1.5.2.RELEASE/spring-boot-starter-1.5.2.RELEASE.pom).
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-tomcat:1.5.2.RELEASE'
+Cached resource Fri Mar 03 10:52:17 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.5.2.RELEASE/spring-boot-starter-tomcat-1.5.2.RELEASE.pom).
+Using version '5.3.4.Final' for dependency 'org.hibernate:hibernate-validator:5.3.4.Final'
+Cached resource Thu Dec 08 04:48:57 CST 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/hibernate/hibernate-validator/5.3.4.Final/hibernate-validator-5.3.4.Final.pom).
+Cached resource Thu Dec 08 04:48:26 CST 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/hibernate/hibernate-validator-parent/5.3.4.Final/hibernate-validator-parent-5.3.4.Final.pom).
+Cached resource Wed Jan 27 11:41:28 CST 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.11.Final/arquillian-bom-1.1.11.Final.pom).
+Cached resource Sat Oct 24 15:27:25 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.3/shrinkwrap-bom-1.2.3.pom).
+Cached resource Sat Oct 24 15:27:25 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/shrinkwrap/shrinkwrap-bom/1.2.3/shrinkwrap-bom-1.2.3.pom).
+Cached resource Wed Sep 16 06:06:47 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/shrinkwrap-resolver-bom-2.2.0.pom).
+Cached resource Wed Sep 16 06:06:47 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/shrinkwrap/resolver/shrinkwrap-resolver-bom/2.2.0/shrinkwrap-resolver-bom-2.2.0.pom).
+Cached resource Tue Sep 29 14:49:22 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-8/shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom).
+Cached resource Tue Sep 29 14:49:22 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/shrinkwrap/descriptors/shrinkwrap-descriptors-bom/2.0.0-alpha-8/shrinkwrap-descriptors-bom-2.0.0-alpha-8.pom).
+Cached resource Wed Jan 27 11:41:28 CST 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/arquillian/arquillian-bom/1.1.11.Final/arquillian-bom-1.1.11.Final.pom).
+Cached resource Thu Dec 08 04:48:26 CST 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/hibernate/hibernate-validator-parent/5.3.4.Final/hibernate-validator-parent-5.3.4.Final.pom).
+Using version '2.8.7' for dependency 'com.fasterxml.jackson.core:jackson-databind:2.8.7'
+Cached resource Mon Feb 20 19:08:24 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.pom).
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-web:4.3.7.RELEASE'
+Cached resource Wed Mar 01 04:05:04 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-web/4.3.7.RELEASE/spring-web-4.3.7.RELEASE.pom).
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-webmvc:4.3.7.RELEASE'
+Cached resource Wed Mar 01 04:04:57 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-webmvc/4.3.7.RELEASE/spring-webmvc-4.3.7.RELEASE.pom).
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot:1.5.2.RELEASE'
+Cached resource Fri Mar 03 10:48:42 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot/1.5.2.RELEASE/spring-boot-1.5.2.RELEASE.pom).
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-autoconfigure:1.5.2.RELEASE'
+Cached resource Fri Mar 03 10:52:41 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.2.RELEASE/spring-boot-autoconfigure-1.5.2.RELEASE.pom).
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-logging:1.5.2.RELEASE'
+Cached resource Fri Mar 03 10:50:58 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.2.RELEASE/spring-boot-starter-logging-1.5.2.RELEASE.pom).
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-core:4.3.7.RELEASE'
+Using version '1.17' for dependency 'org.yaml:snakeyaml:1.17'
+Cached resource Fri Feb 19 07:13:44 CST 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/yaml/snakeyaml/1.17/snakeyaml-1.17.pom).
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-core:8.5.11'
+Cached resource Tue Jan 10 15:17:30 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.pom).
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-el:8.5.11'
+Cached resource Tue Jan 10 15:17:58 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.pom).
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-websocket:8.5.11'
+Cached resource Tue Jan 10 15:18:07 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.pom).
+Using version '1.1.0.Final' for dependency 'javax.validation:validation-api:1.1.0.Final'
+Cached resource Wed Apr 10 08:03:03 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom).
+Using version '3.3.0.Final' for dependency 'org.jboss.logging:jboss-logging:3.3.0.Final'
+Cached resource Thu May 28 11:49:39 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom).
+Cached resource Wed Jul 16 12:12:18 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom).
+Cached resource Wed Jul 16 12:12:18 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/jboss-parent/15/jboss-parent-15.pom).
+Using version '1.3.3' for dependency 'com.fasterxml:classmate:1.3.1'
+Cached resource Wed Sep 28 00:24:44 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/classmate/1.3.3/classmate-1.3.3.pom).
+Cached resource Tue Sep 15 22:48:59 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/oss-parent/24/oss-parent-24.pom).
+Cached resource Tue Sep 15 22:48:59 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/oss-parent/24/oss-parent-24.pom).
+Using version '2.8.0' for dependency 'com.fasterxml.jackson.core:jackson-annotations:2.8.0'
+Cached resource Mon Jul 04 00:20:53 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.pom).
+Using version '2.8.7' for dependency 'com.fasterxml.jackson.core:jackson-core:2.8.7'
+Cached resource Mon Feb 20 19:02:11 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.pom).
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-aop:4.3.7.RELEASE'
+Cached resource Wed Mar 01 04:04:55 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-aop/4.3.7.RELEASE/spring-aop-4.3.7.RELEASE.pom).
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-beans:4.3.7.RELEASE'
+Cached resource Wed Mar 01 04:05:11 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.pom).
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-context:4.3.7.RELEASE'
+Cached resource Wed Mar 01 04:04:15 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.pom).
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-expression:4.3.7.RELEASE'
+Cached resource Wed Mar 01 04:05:02 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-expression/4.3.7.RELEASE/spring-expression-4.3.7.RELEASE.pom).
+Using version '1.1.11' for dependency 'ch.qos.logback:logback-classic:1.1.11'
+Cached resource Wed Mar 01 13:37:04 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.pom).
+Cached resource Wed Mar 01 13:34:52 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.1.11/logback-parent-1.1.11.pom).
+Cached resource Wed Mar 01 13:34:52 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.1.11/logback-parent-1.1.11.pom).
+Using version '1.7.24' for dependency 'org.slf4j:jcl-over-slf4j:1.7.24'
+Cached resource Fri Feb 24 05:06:01 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.24/jcl-over-slf4j-1.7.24.pom).
+Cached resource Fri Feb 24 05:04:59 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.24/slf4j-parent-1.7.24.pom).
+Cached resource Fri Feb 24 05:04:59 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/1.7.24/slf4j-parent-1.7.24.pom).
+Using version '1.7.24' for dependency 'org.slf4j:jul-to-slf4j:1.7.24'
+Cached resource Fri Feb 24 05:06:15 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.7.24/jul-to-slf4j-1.7.24.pom).
+Using version '1.7.24' for dependency 'org.slf4j:log4j-over-slf4j:1.7.24'
+Cached resource Fri Feb 24 05:06:09 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/log4j-over-slf4j/1.7.24/log4j-over-slf4j-1.7.24.pom).
+Using version '1.1.11' for dependency 'ch.qos.logback:logback-core:1.1.11'
+Cached resource Wed Mar 01 13:36:05 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.pom).
+Using version '1.7.24' for dependency 'org.slf4j:slf4j-api:1.7.22'
+Cached resource Fri Feb 24 05:05:08 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.pom).
+Using version '1.7.24' for dependency 'org.slf4j:slf4j-api:1.7.24'
+Cached resource Fri Mar 03 10:52:29 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-web/1.5.2.RELEASE/spring-boot-starter-web-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:48:50 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter/1.5.2.RELEASE/spring-boot-starter-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:48:42 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot/1.5.2.RELEASE/spring-boot-1.5.2.RELEASE.pom).
+Cached resource Wed Mar 01 04:05:18 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-core/4.3.7.RELEASE/spring-core-4.3.7.RELEASE.pom).
+Cached resource Sat Jul 05 13:12:28 CDT 2014 is up-to-date (lastModified: https://repo1.maven.org/maven2/commons-logging/commons-logging/1.2/commons-logging-1.2.pom).
+Cached resource Wed Mar 01 04:04:15 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.pom).
+Cached resource Wed Mar 01 04:04:55 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-aop/4.3.7.RELEASE/spring-aop-4.3.7.RELEASE.pom).
+Cached resource Wed Mar 01 04:05:11 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.pom).
+Cached resource Wed Mar 01 04:05:02 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-expression/4.3.7.RELEASE/spring-expression-4.3.7.RELEASE.pom).
+Cached resource Fri Mar 03 10:52:41 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.2.RELEASE/spring-boot-autoconfigure-1.5.2.RELEASE.pom).
+Cached resource Fri Mar 03 10:50:58 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.2.RELEASE/spring-boot-starter-logging-1.5.2.RELEASE.pom).
+Cached resource Wed Mar 01 13:37:04 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.pom).
+Cached resource Wed Mar 01 13:36:05 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.pom).
+Cached resource Fri Feb 24 05:05:08 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.pom).
+Cached resource Fri Feb 24 05:06:01 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.24/jcl-over-slf4j-1.7.24.pom).
+Cached resource Fri Feb 24 05:06:15 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.7.24/jul-to-slf4j-1.7.24.pom).
+Cached resource Fri Feb 24 05:06:09 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/log4j-over-slf4j/1.7.24/log4j-over-slf4j-1.7.24.pom).
+Cached resource Fri Feb 19 07:13:44 CST 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/yaml/snakeyaml/1.17/snakeyaml-1.17.pom).
+Cached resource Fri Mar 03 10:52:17 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.5.2.RELEASE/spring-boot-starter-tomcat-1.5.2.RELEASE.pom).
+Cached resource Tue Jan 10 15:17:30 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.pom).
+Cached resource Tue Jan 10 15:17:58 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.pom).
+Cached resource Tue Jan 10 15:18:07 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.pom).
+Cached resource Thu Dec 08 04:48:57 CST 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/hibernate/hibernate-validator/5.3.4.Final/hibernate-validator-5.3.4.Final.pom).
+Cached resource Wed Apr 10 08:03:03 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.pom).
+Cached resource Thu May 28 11:49:39 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.pom).
+Cached resource Wed Sep 28 00:24:44 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/classmate/1.3.3/classmate-1.3.3.pom).
+Cached resource Mon Feb 20 19:08:24 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.pom).
+Cached resource Mon Jul 04 00:20:53 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.pom).
+Cached resource Mon Feb 20 19:02:11 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.pom).
+Cached resource Wed Mar 01 04:05:04 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-web/4.3.7.RELEASE/spring-web-4.3.7.RELEASE.pom).
+Cached resource Wed Mar 01 04:04:57 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-webmvc/4.3.7.RELEASE/spring-webmvc-4.3.7.RELEASE.pom).
+Excluding [commons-logging:commons-logging]
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-web:'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter:1.5.2.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-tomcat:1.5.2.RELEASE'
+Using version '5.3.4.Final' for dependency 'org.hibernate:hibernate-validator:5.3.4.Final'
+Using version '2.8.7' for dependency 'com.fasterxml.jackson.core:jackson-databind:2.8.7'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-web:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-webmvc:4.3.7.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot:1.5.2.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-autoconfigure:1.5.2.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-logging:1.5.2.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-core:4.3.7.RELEASE'
+Using version '1.17' for dependency 'org.yaml:snakeyaml:1.17'
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-core:8.5.11'
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-el:8.5.11'
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-websocket:8.5.11'
+Using version '1.1.0.Final' for dependency 'javax.validation:validation-api:1.1.0.Final'
+Using version '3.3.0.Final' for dependency 'org.jboss.logging:jboss-logging:3.3.0.Final'
+Using version '1.3.3' for dependency 'com.fasterxml:classmate:1.3.1'
+Using version '2.8.0' for dependency 'com.fasterxml.jackson.core:jackson-annotations:2.8.0'
+Using version '2.8.7' for dependency 'com.fasterxml.jackson.core:jackson-core:2.8.7'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-aop:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-beans:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-context:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-expression:4.3.7.RELEASE'
+Using version '1.1.11' for dependency 'ch.qos.logback:logback-classic:1.1.11'
+Using version '1.7.24' for dependency 'org.slf4j:jcl-over-slf4j:1.7.24'
+Using version '1.7.24' for dependency 'org.slf4j:jul-to-slf4j:1.7.24'
+Using version '1.7.24' for dependency 'org.slf4j:log4j-over-slf4j:1.7.24'
+Using version '1.1.11' for dependency 'ch.qos.logback:logback-core:1.1.11'
+Using version '1.7.24' for dependency 'org.slf4j:slf4j-api:1.7.22'
+Using version '1.7.24' for dependency 'org.slf4j:slf4j-api:1.7.24'
+Cached resource Fri Mar 03 10:43:39 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-web/1.5.2.RELEASE/spring-boot-starter-web-1.5.2.RELEASE.jar).
+Cached resource Fri Mar 03 10:52:16 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter/1.5.2.RELEASE/spring-boot-starter-1.5.2.RELEASE.jar).
+Cached resource Fri Mar 03 10:52:44 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-tomcat/1.5.2.RELEASE/spring-boot-starter-tomcat-1.5.2.RELEASE.jar).
+Cached resource Thu Dec 08 04:48:57 CST 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/hibernate/hibernate-validator/5.3.4.Final/hibernate-validator-5.3.4.Final.jar).
+Cached resource Mon Feb 20 19:08:23 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.8.7/jackson-databind-2.8.7.jar).
+Cached resource Wed Mar 01 04:04:17 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-web/4.3.7.RELEASE/spring-web-4.3.7.RELEASE.jar).
+Cached resource Wed Mar 01 04:05:13 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-webmvc/4.3.7.RELEASE/spring-webmvc-4.3.7.RELEASE.jar).
+Cached resource Fri Mar 03 10:52:34 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot/1.5.2.RELEASE/spring-boot-1.5.2.RELEASE.jar).
+Cached resource Fri Mar 03 10:51:53 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-autoconfigure/1.5.2.RELEASE/spring-boot-autoconfigure-1.5.2.RELEASE.jar).
+Cached resource Fri Mar 03 10:51:49 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/boot/spring-boot-starter-logging/1.5.2.RELEASE/spring-boot-starter-logging-1.5.2.RELEASE.jar).
+Cached resource Fri Feb 19 07:13:44 CST 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/yaml/snakeyaml/1.17/snakeyaml-1.17.jar).
+Cached resource Tue Jan 10 15:17:20 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/tomcat/embed/tomcat-embed-core/8.5.11/tomcat-embed-core-8.5.11.jar).
+Cached resource Tue Jan 10 15:17:55 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/tomcat/embed/tomcat-embed-el/8.5.11/tomcat-embed-el-8.5.11.jar).
+Cached resource Tue Jan 10 15:18:05 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/apache/tomcat/embed/tomcat-embed-websocket/8.5.11/tomcat-embed-websocket-8.5.11.jar).
+Cached resource Wed Apr 10 08:03:01 CDT 2013 is up-to-date (lastModified: https://repo1.maven.org/maven2/javax/validation/validation-api/1.1.0.Final/validation-api-1.1.0.Final.jar).
+Cached resource Thu May 28 11:49:38 CDT 2015 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/jboss/logging/jboss-logging/3.3.0.Final/jboss-logging-3.3.0.Final.jar).
+Cached resource Wed Sep 28 00:24:43 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/classmate/1.3.3/classmate-1.3.3.jar).
+Cached resource Mon Jul 04 00:20:52 CDT 2016 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.8.0/jackson-annotations-2.8.0.jar).
+Cached resource Mon Feb 20 19:02:01 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.8.7/jackson-core-2.8.7.jar).
+Cached resource Wed Mar 01 04:05:18 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-aop/4.3.7.RELEASE/spring-aop-4.3.7.RELEASE.jar).
+Cached resource Wed Mar 01 04:04:16 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-beans/4.3.7.RELEASE/spring-beans-4.3.7.RELEASE.jar).
+Cached resource Wed Mar 01 04:05:15 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-context/4.3.7.RELEASE/spring-context-4.3.7.RELEASE.jar).
+Cached resource Wed Mar 01 04:04:10 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/springframework/spring-expression/4.3.7.RELEASE/spring-expression-4.3.7.RELEASE.jar).
+Cached resource Wed Mar 01 13:37:04 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.1.11/logback-classic-1.1.11.jar).
+Cached resource Fri Feb 24 05:06:01 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/jcl-over-slf4j/1.7.24/jcl-over-slf4j-1.7.24.jar).
+Cached resource Fri Feb 24 05:06:14 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/jul-to-slf4j/1.7.24/jul-to-slf4j-1.7.24.jar).
+Cached resource Fri Feb 24 05:06:08 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/log4j-over-slf4j/1.7.24/log4j-over-slf4j-1.7.24.jar).
+Cached resource Wed Mar 01 13:36:04 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.1.11/logback-core-1.1.11.jar).
+Cached resource Fri Feb 24 05:05:07 CST 2017 is up-to-date (lastModified: https://repo1.maven.org/maven2/org/slf4j/slf4j-api/1.7.24/slf4j-api-1.7.24.jar).
+Skipping task ':compileJava' as it is up-to-date (took 5.63 secs).
+:compileJava UP-TO-DATE
+:compileJava (Thread[main,5,main]) completed. Took 5.653 secs.
+:processResources (Thread[main,5,main]) started.
+:processResources
+Skipping task ':processResources' as it has no source files.
+:processResources UP-TO-DATE
+:processResources (Thread[main,5,main]) completed. Took 0.001 secs.
+:classes (Thread[main,5,main]) started.
+:classes
+Skipping task ':classes' as it has no actions.
+:classes UP-TO-DATE
+:classes (Thread[main,5,main]) completed. Took 0.001 secs.
+:jar (Thread[main,5,main]) started.
+:jar
+Executing task ':jar' (up-to-date check took 0.052 secs) due to:
+  Output file /home/morgan/pocs/bootMongoDocker/build/libs/bootMongoDocker-0.0.1-SNAPSHOT.jar has changed.
+:jar (Thread[main,5,main]) completed. Took 0.084 secs.
+:findMainClass (Thread[main,5,main]) started.
+:findMainClass
+Executing task ':findMainClass' (up-to-date check took 0.0 secs) due to:
+  Task has not declared any outputs.
+:findMainClass (Thread[main,5,main]) completed. Took 0.001 secs.
+:startScripts (Thread[main,5,main]) started.
+:startScripts
+Resolving dependency management for configuration 'runtime' of project 'bootMongoDocker'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-web:'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter:1.5.2.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-tomcat:1.5.2.RELEASE'
+Using version '5.3.4.Final' for dependency 'org.hibernate:hibernate-validator:5.3.4.Final'
+Using version '2.8.7' for dependency 'com.fasterxml.jackson.core:jackson-databind:2.8.7'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-web:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-webmvc:4.3.7.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot:1.5.2.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-autoconfigure:1.5.2.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-logging:1.5.2.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-core:4.3.7.RELEASE'
+Using version '1.17' for dependency 'org.yaml:snakeyaml:1.17'
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-core:8.5.11'
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-el:8.5.11'
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-websocket:8.5.11'
+Using version '1.1.0.Final' for dependency 'javax.validation:validation-api:1.1.0.Final'
+Using version '3.3.0.Final' for dependency 'org.jboss.logging:jboss-logging:3.3.0.Final'
+Using version '1.3.3' for dependency 'com.fasterxml:classmate:1.3.1'
+Using version '2.8.0' for dependency 'com.fasterxml.jackson.core:jackson-annotations:2.8.0'
+Using version '2.8.7' for dependency 'com.fasterxml.jackson.core:jackson-core:2.8.7'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-aop:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-beans:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-context:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-expression:4.3.7.RELEASE'
+Using version '1.1.11' for dependency 'ch.qos.logback:logback-classic:1.1.11'
+Using version '1.7.24' for dependency 'org.slf4j:jcl-over-slf4j:1.7.24'
+Using version '1.7.24' for dependency 'org.slf4j:jul-to-slf4j:1.7.24'
+Using version '1.7.24' for dependency 'org.slf4j:log4j-over-slf4j:1.7.24'
+Using version '1.1.11' for dependency 'ch.qos.logback:logback-core:1.1.11'
+Using version '1.7.24' for dependency 'org.slf4j:slf4j-api:1.7.22'
+Using version '1.7.24' for dependency 'org.slf4j:slf4j-api:1.7.24'
+Excluding []
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-web:'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter:1.5.2.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-tomcat:1.5.2.RELEASE'
+Using version '5.3.4.Final' for dependency 'org.hibernate:hibernate-validator:5.3.4.Final'
+Using version '2.8.7' for dependency 'com.fasterxml.jackson.core:jackson-databind:2.8.7'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-web:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-webmvc:4.3.7.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot:1.5.2.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-autoconfigure:1.5.2.RELEASE'
+Using version '1.5.2.RELEASE' for dependency 'org.springframework.boot:spring-boot-starter-logging:1.5.2.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-core:4.3.7.RELEASE'
+Using version '1.17' for dependency 'org.yaml:snakeyaml:1.17'
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-core:8.5.11'
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-el:8.5.11'
+Using version '8.5.11' for dependency 'org.apache.tomcat.embed:tomcat-embed-websocket:8.5.11'
+Using version '1.1.0.Final' for dependency 'javax.validation:validation-api:1.1.0.Final'
+Using version '3.3.0.Final' for dependency 'org.jboss.logging:jboss-logging:3.3.0.Final'
+Using version '1.3.3' for dependency 'com.fasterxml:classmate:1.3.1'
+Using version '2.8.0' for dependency 'com.fasterxml.jackson.core:jackson-annotations:2.8.0'
+Using version '2.8.7' for dependency 'com.fasterxml.jackson.core:jackson-core:2.8.7'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-aop:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-beans:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-context:4.3.7.RELEASE'
+Using version '4.3.7.RELEASE' for dependency 'org.springframework:spring-expression:4.3.7.RELEASE'
+Using version '1.1.11' for dependency 'ch.qos.logback:logback-classic:1.1.11'
+Using version '1.7.24' for dependency 'org.slf4j:jcl-over-slf4j:1.7.24'
+Using version '1.7.24' for dependency 'org.slf4j:jul-to-slf4j:1.7.24'
+Using version '1.7.24' for dependency 'org.slf4j:log4j-over-slf4j:1.7.24'
+Using version '1.1.11' for dependency 'ch.qos.logback:logback-core:1.1.11'
+Using version '1.7.24' for dependency 'org.slf4j:slf4j-api:1.7.22'
+Using version '1.7.24' for dependency 'org.slf4j:slf4j-api:1.7.24'
+Executing task ':startScripts' (up-to-date check took 0.056 secs) due to:
+  Input file /home/morgan/pocs/bootMongoDocker/build/libs/bootMongoDocker-0.0.1-SNAPSHOT.jar has changed.
+:startScripts (Thread[main,5,main]) completed. Took 0.323 secs.
+:distTar (Thread[main,5,main]) started.
+:distTar
+Executing task ':distTar' (up-to-date check took 0.007 secs) due to:
+  Input file /home/morgan/pocs/bootMongoDocker/build/libs/bootMongoDocker-0.0.1-SNAPSHOT.jar has changed.
+:distTar (Thread[main,5,main]) completed. Took 0.174 secs.
+:distZip (Thread[main,5,main]) started.
+:distZip
+Executing task ':distZip' (up-to-date check took 0.004 secs) due to:
+  Input file /home/morgan/pocs/bootMongoDocker/build/libs/bootMongoDocker-0.0.1-SNAPSHOT.jar has changed.
+:distZip (Thread[main,5,main]) completed. Took 0.573 secs.
+:bootRepackage (Thread[main,5,main]) started.
+:bootRepackage
+Executing task ':bootRepackage' (up-to-date check took 0.001 secs) due to:
+  Task has not declared any outputs.
+Setting mainClass: com.hudsonmendes.microservice1.AppEntry
+:bootRepackage (Thread[main,5,main]) completed. Took 0.061 secs.
+:assemble (Thread[main,5,main]) started.
+:assemble
+Skipping task ':assemble' as it has no actions.
+:assemble (Thread[main,5,main]) completed. Took 0.001 secs.
+:compileTestJava (Thread[main,5,main]) started.
+:compileTestJava
+Skipping task ':compileTestJava' as it has no source files.
+:compileTestJava UP-TO-DATE
+:compileTestJava (Thread[main,5,main]) completed. Took 0.0 secs.
+:processTestResources (Thread[main,5,main]) started.
+:processTestResources
+Skipping task ':processTestResources' as it has no source files.
+:processTestResources UP-TO-DATE
+:processTestResources (Thread[main,5,main]) completed. Took 0.001 secs.
+:testClasses (Thread[main,5,main]) started.
+:testClasses
+Skipping task ':testClasses' as it has no actions.
+:testClasses UP-TO-DATE
+:testClasses (Thread[main,5,main]) completed. Took 0.0 secs.
+:test (Thread[main,5,main]) started.
+:test
+file or directory '/home/morgan/pocs/bootMongoDocker/build/classes/test', not found
+Skipping task ':test' as it has no source files.
+:test UP-TO-DATE
+:test (Thread[main,5,main]) completed. Took 0.001 secs.
+:check (Thread[main,5,main]) started.
+:check
+Skipping task ':check' as it has no actions.
+:check UP-TO-DATE
+:check (Thread[main,5,main]) completed. Took 0.0 secs.
+:build (Thread[main,5,main]) started.
+:build
+Skipping task ':build' as it has no actions.
+:build (Thread[main,5,main]) completed. Took 0.0 secs.
+:distDocker (Thread[main,5,main]) started.
+:distDocker
+Executing task ':distDocker' (up-to-date check took 0.001 secs) due to:
+  Task has not declared any outputs.
+Setting up staging directory.
+Creating Dockerfile from base frolvlad/alpine-oraclejdk8:slim.
+Determining image tag: bootMongoDocker/bootMongoDocker:1.0-SNAPSHOT
+Using the native docker binary.
+:distDocker FAILED
+:distDocker (Thread[main,5,main]) completed. Took 0.094 secs.
+
+BUILD FAILED
+
+Total time: 17.976 secs
+Stopped 0 compiler daemon(s).

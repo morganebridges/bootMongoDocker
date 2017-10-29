@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bootMongoDocker.iml" filepath="$PROJECT_DIR$/.idea/modules/bootMongoDocker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bootMongoDocker_main.iml" filepath="$PROJECT_DIR$/.idea/modules/bootMongoDocker_main.iml" group="bootMongoDocker" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/bootMongoDocker_test.iml" filepath="$PROJECT_DIR$/.idea/modules/bootMongoDocker_test.iml" group="bootMongoDocker" />
+    </modules>
+  </component>
+</project>
