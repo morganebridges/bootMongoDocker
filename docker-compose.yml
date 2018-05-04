@@ -12,4 +12,7 @@ services:
       - "27017:27019"
     volumes:
     - './data:/data/db'
-
+  angular: # name of the first service
+    build: "src/main/resources/static/personal-site" # specify the directory of the Dockerfile
+    ports:
+      - "4200:4200" # specify port forewarding

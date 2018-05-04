@@ -15,7 +15,7 @@ buildscript {
         mavenCentral()
     }
     dependencies {
-
+        classpath("org.springframework.boot:spring-boot-gradle-plugin:1.5.8.RELEASE")
         classpath("org.springframework.boot:spring-boot-gradle-plugin:${springBootVersion}")
         classpath("se.transmode.gradle:gradle-docker:${gradleDockerVersion}")
     }
@@ -52,5 +52,7 @@ dependencies {
     compile("org.springframework.data:spring-data-mongodb")
     compile("org.springframework.boot:spring-boot-starter-batch")
     compile("org.hsqldb:hsqldb")
+    // https://mvnrepository.com/artifact/com.fasterxml.jackson.datatype/jackson-datatype-jsr310
+    compile group: 'com.fasterxml.jackson.datatype', name: 'jackson-datatype-jsr310', version: '2.3.0-rc1'
     testCompile("org.springframework.boot:spring-boot-starter-test")
 }
